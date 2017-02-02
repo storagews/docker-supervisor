@@ -1,4 +1,4 @@
-FROM debian:testing
+FROM ubuntu:14.04
 #
 MAINTAINER Alexander Shevchenko <kudato@me.com>
 #
